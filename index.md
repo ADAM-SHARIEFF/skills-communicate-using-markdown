@@ -1,1 +1,11 @@
+#### oh look heres a cool image i found
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#### and some code too:
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+#### here is one in javascript
+``` javascript
+var myVar = "Hello, world!";
+```
